@@ -1,2 +1,0 @@
-# webscrapenewsarticles
-scraping news articles
